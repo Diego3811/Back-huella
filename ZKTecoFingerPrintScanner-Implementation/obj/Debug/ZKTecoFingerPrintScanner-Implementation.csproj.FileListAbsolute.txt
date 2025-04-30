@@ -39,3 +39,17 @@ C:\Users\diego\Desktop\ZKTecoFingerPrintScanner-Implementation\ZKTecoFingerPrint
 C:\Users\diego\Desktop\ZKTecoFingerPrintScanner-Implementation\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFi.76DDE04C.Up2Date
 C:\Users\diego\Desktop\ZKTecoFingerPrintScanner-Implementation\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.exe
 C:\Users\diego\Desktop\ZKTecoFingerPrintScanner-Implementation\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.pdb
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\bin\Debug\libzkfpcsharp.dll
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\bin\Debug\ZKTecoFingerPrintScanner-Implementation.exe.config
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\bin\Debug\ZKTecoFingerPrintScanner-Implementation.exe
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\bin\Debug\ZKTecoFingerPrintScanner-Implementation.pdb
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.csproj.AssemblyReference.cache
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\Dofe_Re_Entry.UserControls.DeviceController.FingerPrintControl.resources
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner_Implementation.Controls.StatusBar.resources
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner_Implementation.Master.resources
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner_Implementation.Properties.Resources.resources
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.csproj.GenerateResource.cache
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.csproj.CoreCompileInputs.cache
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.csproj.CopyComplete
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.exe
+C:\Users\dvazquez\Desktop\Demos\DemoZK9500-diego\Back-huella\ZKTecoFingerPrintScanner-Implementation\obj\Debug\ZKTecoFingerPrintScanner-Implementation.pdb
